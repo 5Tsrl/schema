@@ -7,6 +7,24 @@ module.exports.terms =  [
 ];
 
 module.exports.synonyms = [
+"corso => c.so,cso",
+"viale => v.le",
+"piazza => p.zza,pza",
+"frazione => fraz,fraz.",
+"località => loc",
+"borgata => borg.",
+"strada => str",
+"vicolo => v.lo",
+"primo => i,1,1°",
+"secondo => ii,2,2°",
+"terzo => iii,3,3°",
+"quattro => iv,4,4°",
+"quinto => v,5,5°",
+"sesto => vi,6,6°",
+"venticinque => xxv,25",
+"undici => 11, xi",
+"venti => xx, 20",
+
   "avenue => ave",
   "boulevard => blvd",
   "circle => cir",
